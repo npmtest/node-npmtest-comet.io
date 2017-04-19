@@ -1,4 +1,7 @@
-# test coverage for  [comet.io (v0.0.5)](https://github.com/snakajima/comet.io#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-comet.io.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-comet.io) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-comet.io.svg)](https://travis-ci.org/npmtest/node-npmtest-comet.io)
+# npmtest-comet.io
+
+#### basic test coverage for  [comet.io (v0.0.5)](https://github.com/snakajima/comet.io#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-comet.io.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-comet.io) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-comet.io.svg)](https://travis-ci.org/npmtest/node-npmtest-comet.io)
+
 #### light-weight comet server & client
 
 [![NPM](https://nodei.co/npm/comet.io.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/comet.io)
